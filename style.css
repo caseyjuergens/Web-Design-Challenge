@@ -5,4 +5,8 @@
     position: fixed;
     top: 5%;
     right: 10px;;
-    }
+}
+
+div {
+    margin: 25px;
+}  
