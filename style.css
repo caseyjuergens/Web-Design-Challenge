@@ -4,9 +4,9 @@
     overflow: auto;
     position: fixed;
     top: 5%;
-    right: 10px;;
+    right: 25px;;
 }
 
-div {
+table {
     margin: 25px;
 }  
