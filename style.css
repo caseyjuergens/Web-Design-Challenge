@@ -3,10 +3,18 @@
     height: 100%,
     overflow: auto;
     position: fixed;
-    top: 5%;
-    right: 25px;;
+    top: 10%;
+    right: 25px;
 }
 
 table {
     margin: 25px;
 }  
+
+h3 {
+    margin-top 40x;
+}
+
+h4{
+    margin-top 15px;
+}
