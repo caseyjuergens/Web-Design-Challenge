@@ -4,7 +4,7 @@
     overflow: auto;
     position: fixed;
     top: 10%;
-    right: 25px;
+    right: 130px;
 }
 
 table {
@@ -17,4 +17,10 @@ h3 {
 
 h4{
     margin-top 15px;
+}
+
+@media (max-width: 760px){
+    .sidebar{
+        display: none;
+    }
 }
